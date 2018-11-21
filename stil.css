@@ -1,0 +1,32 @@
+body{
+  border-width: medium;
+  border-style: solid;
+  border-color: red;
+  background-color: rgb(254, 255, 178);
+}
+h1 {
+    text-align: center;
+  color: rgb(50, 156, 28);
+}
+span{
+  color: black;
+}
+h2 {
+  text-align: center;
+  font-family: cursive;
+  color: rgb(24, 93, 193);
+
+}
+p {
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.para{
+  margin-left: 30%;
+  margin-right: 30%
+
+}
+.link {
+  margin-left: 45%;
+}
